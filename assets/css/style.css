@@ -1,3 +1,7 @@
 ul.list-group {
   min-height: 130px;
 }
+/*adjusted card titles*/
+h2 {
+  font-size: medium;
+}
